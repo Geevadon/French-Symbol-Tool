@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "French Symbol Tool",
+    "description": "Get fast and easily french accented capitals and some symbols.",
+    "version": "1.0.0",
+    "author": "Donatien Vamuleke (Geevadon)",
+    "icons": {"128" : "./src/assets/images/icons/icon_128.png"},
+    "browser_action": {
+        "default_icon": "./src/assets/images/icons/icon.png",
+        "default_popup": "./src/popup.html"
+    },
+    "permissions": ["activeTab"]
+}
