@@ -16,10 +16,10 @@ Incroyable n'est-ce pas ? C'est très facile à utiliser et très pratique comme
 
 # Fonctionnalités disponibles
 
-Les lettres majuscules accentuées et les symboles sont disponibles sur l’interface de l’extension (le popup).
-Pour copier un majuscule accentué ou un symbole, il suffit de cliquer dessus. La copie se fera automatiquement dans le presse-papiers. Vous n’avez donc qu’à aller le coller là vous le souhaitez (dans un document Google Docs par exemple ou dans la messagerie des réseaux sociaux).
-En cas de succès de la copie, un joli message d’alerte s’affiche. En cas d'échec un message d’alerte s’affiche également.
-Le but était de rendre l’extension très facile à prendre en main.
+- Les lettres majuscules accentuées et les symboles sont disponibles sur l’interface de l’extension (le popup).
+- Pour copier un majuscule accentué ou un symbole, il suffit de cliquer dessus. La copie se fera automatiquement dans le presse-papiers. Vous n’avez donc qu’à aller le coller là vous le souhaitez (dans un document Google Docs par exemple ou dans la messagerie des réseaux sociaux).
+- En cas de succès de la copie, un joli message d’alerte s’affiche. En cas d'échec un message d’alerte s’affiche également.
+- Le but était de rendre l’extension très facile à prendre en main.
 
 # Comment installer French Symbol Tool ?
 Installer cette extension c’est la chose la plus simple qui soit. Je vous présente, ci-dessous, deux manières de l’installer.
