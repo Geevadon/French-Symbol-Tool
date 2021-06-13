@@ -25,7 +25,7 @@ Le but était de rendre l’extension très facile à prendre en main.
 Installer cette extension c’est la chose la plus simple qui soit. Je vous présente, ci-dessous, deux manières de l’installer.
 
 ## Installation automatique
-L’extension est déjà déployée sur le Chrome Web Store. Tout ce que vous avez à faire pour l’installer sur votre navigateur Google Chrome, c’est vous rendre sur la page dédiée à l’extension sur Chrome Web Store et de cliquer sur le bouton « Add to Chrome (Ajouter à Chrome) ». Vous pouvez <a href="#" target="_blank">cliquer directement sur ce lien</a>
+L’extension est déjà déployée sur le Chrome Web Store. Tout ce que vous avez à faire pour l’installer sur votre navigateur Google Chrome, c’est vous rendre sur la page dédiée à l’extension sur Chrome Web Store et de cliquer sur le bouton « Add to Chrome (Ajouter à Chrome) ». Vous pouvez <a href="#" target="_blank">cliquer directement sur ce lien</a>.
 
 ## Installation manuelle
 Cette méthode est à utiliser dans le cas où vous ne retrouvez pas l’extension sur le Chrome Web Store ou si vous voulez apporter quelques modifications au projet et tester les choses par vous-mêmes.
@@ -57,4 +57,5 @@ Si vous êtes développeur (ou pas), vous pouvez tout à fait continuer au proje
 # Screenshots
 ![French Symbol Tool](src/assets/images/screenshots/french-symbol-tool-home.png)
 <hr />
+
 ![French Symbol Tool](src/assets/images/screenshots/popup-copy-success.png)
