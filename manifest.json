@@ -9,5 +9,5 @@
         "default_icon": "./src/assets/images/icons/icon.png",
         "default_popup": "./src/popup.html"
     },
-    "permissions": ["activeTab"]
+    "permissions": []
 }
