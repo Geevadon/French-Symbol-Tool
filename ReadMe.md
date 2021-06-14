@@ -25,7 +25,9 @@ Incroyable n'est-ce pas ? C'est très facile à utiliser et très pratique comme
 Installer cette extension c’est la chose la plus simple qui soit. Je vous présente, ci-dessous, deux manières de l’installer.
 
 ## Installation automatique
-L’extension est déjà déployée sur le Chrome Web Store. Tout ce que vous avez à faire pour l’installer sur votre navigateur Google Chrome, c’est vous rendre sur la page dédiée à l’extension sur Chrome Web Store et de cliquer sur le bouton « Add to Chrome (Ajouter à Chrome) ». Vous pouvez <a href="#" target="_blank">cliquer directement sur ce lien</a>.
+L’extension est déjà déployée sur le Chrome Web Store. Tout ce que vous avez à faire pour l’installer sur votre navigateur Google Chrome, c’est vous rendre sur la page dédiée à l’extension sur Chrome Web Store et de cliquer sur le bouton « Add to Chrome (Ajouter à Chrome) ». Vous pouvez <a href="https://chrome.google.com/webstore/detail/french-symbol-tool/jkekpndcknimbijdiafkmkfglllmdlko" target="_blank">cliquer directement sur ce lien</a>.
+
+![Ajouter à Chrome](src/assets/images/screenshots/add_to_chrome.png)
 
 ## Installation manuelle
 Cette méthode est à utiliser dans le cas où vous ne retrouvez pas l’extension sur le Chrome Web Store ou si vous voulez apporter quelques modifications au projet et tester les choses par vous-mêmes.
